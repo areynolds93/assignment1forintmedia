@@ -1,0 +1,77 @@
+body {
+	background-image: url("theheat.jpg");
+	background-size: cover;
+    background-color: #d83000;
+}
+main
+{
+	font-family: gill sans;
+	font-weight: 100;
+	margin-left: 600px;
+	margin-right: 50px;
+	line-height: 30px;
+}
+.box {
+	
+	height: auto;
+	border-radius: 10px;
+	padding: 20px;
+	min-width: 300px;
+	height: auto;
+	opacity: .5;
+	max-width: 350px;
+	z-index: 5;
+	background-color: rgba(255,241,222,0.4);
+	margin-right: 100px;
+	
+}
+.box,
+p {
+	opacity: 1;
+	color: black;
+	z-index: 10;
+	
+	
+}
+header {
+	margin-left: 600px;
+}
+header,
+h1
+{	
+	font-family: gill sans;
+	font-weight: 300;
+	letter-spacing:5px;
+	font-size: 36px;
+	text-transform: uppercase;
+	color:#fff4dc
+}
+main
+h2 {
+	font-family: gill sans;
+	font-weight: 100;
+	letter-spacing:3px;
+	text-transform: uppercase;
+	font-style: oblique;
+	color:#fff4dc;
+	letter-spacing:5px;
+
+	
+}
+main,
+p {
+	font-family: gill sans;
+	font-weight: 100;
+	font-size: 20px;
+}
+footer {
+	margin-left: 600px;
+}
+footer,
+h3 {
+	font-family: gill sans;
+	font-weight: 100;
+	letter-spacing:3px;
+	text-transform: uppercase;
+	color:#fff4dc
+}
