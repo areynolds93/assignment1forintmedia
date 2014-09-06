@@ -1,7 +1,9 @@
 body {
 	background-image: url("theheat.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
     background-color: #d83000;
+    
 }
 main
 {
